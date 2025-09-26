@@ -119,7 +119,7 @@
       .first {
         height: 650px;
         max-width: 100vw;
-        background-image: url(/html/assts/onplus1.jpg);
+        background-image: url(assts/onplus1.jpg);
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -1261,3 +1261,4 @@
         }
 
       }
+
